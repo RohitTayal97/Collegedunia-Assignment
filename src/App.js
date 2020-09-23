@@ -5,8 +5,19 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Colleges in North India</h1>
-      <Card />
+      <h4>Colleges in North India</h4>
+      <div className="body">
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     </div>
   );
 }

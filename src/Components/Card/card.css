@@ -8,6 +8,7 @@ img {
 .card {
   height: 377px;
   width: 637.3px;
+  margin: 10px;
   border-radius: 3.8px;
   box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
   border: solid 0.2px rgba(68, 68, 68, 0.1);
